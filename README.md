@@ -1,5 +1,6 @@
 ### Hi there 👋, Harshal here
-![Heyy ,Broo](https://user-images.githubusercontent.com/92268499/182038724-cbb0f826-48c4-4720-a350-863655438b21.png)
+
+![Heyy, Guys](https://user-images.githubusercontent.com/92268499/182039916-6ea730f3-6229-4b2d-880d-ae202b18ca76.png)
 
 🦄 Innovator <br>
 😋 Extremely Hungry <br>
@@ -13,5 +14,6 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harrrshall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/@harshalsinghcn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@HarshalsinghCN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@Cyber_novas#8572)  
+
 
 
