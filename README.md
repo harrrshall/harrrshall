@@ -6,6 +6,7 @@
 😋 Extremely Hungry <br>
 ⚡️ A man who value weird people and cool ideas. <br>
 🏴‍ On to interesting hacks around real world problems <br>
+🧠 Learning About Human Brain Iterface and Robotics <br>
 
 # 
 
