@@ -1,6 +1,6 @@
 ### Hi there 👋, Harshal here
 
-[![Udit's GitHub cover](https://github-cool-covers.vercel.app/api/get-cover?username=cybernovas&text=Hola,+I'm+cyber)](https://github.com/uditkumar01/cool-covers)🦄 Innovator <br>
+[![Udit's GitHub cover](https://github-cool-covers.vercel.app/api/get-cover?username=cybernovas&text=Heyy,+I'm+Innovator)](https://github.com/uditkumar01/cool-covers)🦄 Innovator <br>
 😋 Extremely Hungry <br>
 ⚡️ A man who value weird people and cool ideas. <br>
 🏴‍ On to interesting hacks around real world problems <br>
