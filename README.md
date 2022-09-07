@@ -1,7 +1,6 @@
 ### Hi there 👋, Harshal here
 
-![Heyy, Guys](https://user-images.githubusercontent.com/92268499/182039916-6ea730f3-6229-4b2d-880d-ae202b18ca76.png)
-
+[![Udit's GitHub cover](https://github-cool-covers.vercel.app/api/get-cover?)](https://github.com/uditkumar01/cool-covers)
 🦄 Innovator <br>
 😋 Extremely Hungry <br>
 ⚡️ A man who value weird people and cool ideas. <br>
