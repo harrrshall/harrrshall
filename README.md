@@ -1,10 +1,10 @@
 ### Hi there 👋, Harshal this side
 
-[![Udit's GitHub cover](https://github-cool-covers.vercel.app/api/get-cover?username=cybernovas&text=I'm+Innovator)](https://github.com/uditkumar01/cool-covers)🦄 Innovator <br>
+
 😋 Extremely Hungry <br>
 ⚡️ A man who value weird people and cool ideas. <br>
 🏴‍ On to interesting hacks around real world problems <br>
-🧠 Learning About Human Brain Interface and Robotics <br>
+🧠 Learning About Design, Algorithms,web3 and Robotics <br>
 
 # 
 
