@@ -9,7 +9,7 @@
 
 # 
 
-- 🌱 I’m currently learning Web3 and Robotics stuffs 
+- 🌱 I’m currently learning Web3 and AI stuffs 
 - 👯 I’m looking to collaborate on intersting projects 
 - 🏴‍ Looking for summer internship 2023
 
