@@ -6,6 +6,9 @@
 🏴‍ On to interesting hacks around real world problems <br>
 🧠 Learning About Design, Algorithms,web3 and Robotics <br>
 
+![giphy_1](https://user-images.githubusercontent.com/92268499/210029668-e16d8e74-1b64-499e-a1a5-4f613821f154.gif)
+
+
 
 # 
 
