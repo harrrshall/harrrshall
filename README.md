@@ -5,11 +5,12 @@
 ⚡️ A man who value weird people and cool ideas. <br>
 🏴‍ On to interesting hacks around real world problems <br>
 🧠 Learning About Design, Algorithms,web3 and deep learning <br>
-![giphy_1](https://user-images.githubusercontent.com/92268499/210029668-e16d8e74-1b64-499e-a1a5-4f613821f154.gif)
+![1675733642000](https://user-images.githubusercontent.com/92268499/217163110-06bd3af1-1d66-4777-89f8-ceb2d8ff1ce0.jpg)
 
 
 
 # 
+
 
 - 🌱 I’m currently learning Web3 and AI stuffs 
 - 👯 I’m looking to collaborate on intersting projects 
