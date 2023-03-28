@@ -2,7 +2,6 @@
 
 
 
-😋 Extremely Hungry, Extremely unhappy<br>
 ⚡️ A man who value weird people and cool ideas. <br>
 🏴‍ On to interesting hacks around real world problems <br>
 🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
