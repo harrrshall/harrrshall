@@ -12,13 +12,13 @@
 - 🏴‍ Looking for summer internship 2023
 - `Most of my works are private, working to make some public projects`
 
-Some target and timeline for me : Today Date @14/04/2023
+## Some timeline for me :- 
+Today Date @14/04/2023
 
 - `In next 2 years i will be better Engineer than Anyone I know`
 
 ```bash
-And this i will be prove by making a whole computer from scratch
-(I will make all hardware + software  from scratch). At this time i have negative knowledge of hardware
+I will prove this by building an entire computer from scratch, including both the hardware and software. Currently, I have negative knowledge of hardware.
 
 ```
 ```bash
