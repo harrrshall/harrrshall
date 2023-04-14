@@ -12,7 +12,19 @@
 - 🏴‍ Looking for summer internship 2023
 - `Most of my works are private, working to make some public projects`
 
+Some target and timeline for me : Today Date @14/04/2023
+
+- `In next 2 years i will be better Engineer than Anyone I know`
+
+```bash
+And this i will be prove by making a whole computer from scratch
+(I will make all hardware + software  from scratch). At this time i have negative knowledge of hardware
+
+```
+```bash
+Reason For Doing this:- I wanna be helpful
+
+```
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harrrshall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshalsinghcn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@HarshalsinghCN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@Cyber_novas#8572)  
-
-
-
