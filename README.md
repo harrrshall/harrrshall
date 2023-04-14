@@ -13,7 +13,7 @@
 - `Most of my works are private, working to make some public projects`
 
 ## Some timeline for me :- 
-Today Date @14/04/2023
+@14/04/2023
 
 - `In next 2 years i will be better Engineer than Anyone I know`
 
