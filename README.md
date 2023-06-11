@@ -8,7 +8,7 @@
 ![1675733642000](https://user-images.githubusercontent.com/92268499/217163110-06bd3af1-1d66-4777-89f8-ceb2d8ff1ce0.jpg)
 
 - 🌱 I’m currently learning Web3 and AI stuff
-- 👯 I’m looking to collaborate on intersting projects 
+- 👯 I’m looking to collaborate on intersting project
 - 🏴‍ Looking for summer internships 2023
 - `Most of my works are private, working to make some public projects`
 
