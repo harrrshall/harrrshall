@@ -4,7 +4,7 @@
 
 ⚡️ A man who value weird people and cool idea. <br>
 🏴‍ On to interesting hacks around real world problems <br>
-🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
+🧠 Diving in design, algorithms,web3 and deep learning stuff<br>
 ![1675733642000](https://user-images.githubusercontent.com/92268499/217163110-06bd3af1-1d66-4777-89f8-ceb2d8ff1ce0.jpg)
 
 - 🌱 I’m currently learning Web3 and AI stuff
