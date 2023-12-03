@@ -1,7 +1,7 @@
 ### Hi there 👋, Harshal this side
 
 
-
+![](https://komarev.com/ghpvc/?username=harrrshall)
 ⚡️ A man who value weird people and cool idea. <br>
 🏴‍ On to interestings hacks around real world problems <br>
 🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
