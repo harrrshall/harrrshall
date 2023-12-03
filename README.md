@@ -1,7 +1,6 @@
 ### Hi there 👋, Harshal this side
 
 
-![](https://komarev.com/ghpvc/?username=harrrshall)
 ⚡️ A man who value weird people and cool idea. <br>
 🏴‍ On to interestings hacks around real world problems <br>
 🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
@@ -25,6 +24,6 @@ I will prove this by building an entire computer from scratch, including both th
 Reason For Doing this:- I wanna be helpful
 
 ```
-
+![](https://komarev.com/ghpvc/?username=harrrshall)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harrrshall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshalsinghcn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@HarshalsinghCN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@Cyber_novas#8572)  
