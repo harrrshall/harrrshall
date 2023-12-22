@@ -1,7 +1,7 @@
 ### Hi there 👋, Harshal this side 
 
 
-⚡️ A Man who value weird people and cool idea. <br>
+⚡️ A man who value weird people and cool idea. <br>
 🏴‍ On to interestings hacks around real world problems <br>
 🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
 ![1675733642000](https://user-images.githubusercontent.com/92268499/217163110-06bd3af1-1d66-4777-89f8-ceb2d8ff1ce0.jpg)
