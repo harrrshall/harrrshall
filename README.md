@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Web3 and AI stuff
 - 👯 I’m looking to collaborate on intersting projects
-- 🏴‍ Looking for summer internships 2023
+- 🏴‍ Looking for summer internships 2024
 - `Most of my works are private, working to make some public project`
 
 ## Some timeline for me  :- 
