@@ -1,29 +1,99 @@
-### Hi there 👋, Harshal this side 
+## Webscribe: Your AI-Powered Web Content Assistant
 
+This repository houses Webscribe, a powerful web application built with Next.js, Tailwind CSS, and TypeScript. Webscribe is designed to help you create, analyze, and manage web content with the aid of AI.
 
-⚡️ A man who value weird people and cool idea. <br>
-🏴‍ On to interestings hacks around real world problems <br>
-🧠 Diving in design, algorithms,web3 and deep learning stuffs<br>
-![1675733642000](https://user-images.githubusercontent.com/92268499/217163110-06bd3af1-1d66-4777-89f8-ceb2d8ff1ce0.jpg)
+### Features
 
-- 🌱 I’m currently learning Web3 and AI stuff
-- 👯 I’m looking to collaborate on intersting projects
-- 🏴‍ Looking for summer internships 2024
-- `Most of my works are private, working to make some public project`
+* **AI-powered content generation:**  Leverage powerful AI models to generate high-quality content for your website, including articles, blog posts, social media updates, and more.
+* **Content analysis and optimization:** Get insights into your existing content, identify areas for improvement, and receive suggestions for SEO optimization.
+* **Effortless web scraping:** Crawl websites and extract data, making it easy to gather information and build datasets for various purposes.
+* **Intuitive user interface:** A clean and user-friendly interface built with Next.js and Tailwind CSS for an enjoyable and efficient experience.
+* **Built with TypeScript:** Enjoy the benefits of static typing for improved code quality, maintainability, and readability.
 
-## Some timeline for me  :- 
-@14/04/2023
+### Project Structure
 
-- `In next 2 years i will be better Engineer than Anyone I know`
-
-```bash
-I will prove this by building an entire computer from scratch, including both the hardware and software. Currently, I have negative knowledge of hardware.
+The repository is structured as follows:
 
 ```
-```bash
-Reason For Doing this:- I wanna be helpful
+└── app
+    └── api
+        └── chat
+            └── route.ts
+        └── crawl
+            └── route.ts
+                └── [jobId]
+                    └── route.ts
+    └── favicon.ico
+    └── globals.css
+    └── layout.tsx
+    └── page.tsx
+└── components.json
+└── components
+    └── mainpage.tsx
+    └── theme-provider.tsx
+        └── ui
+            └── button.tsx
+            └── input.tsx
+            └── label.tsx
+            └── radio-group.tsx
+            └── switch.tsx
+└── lib
+    └── utils.ts
+└── next.config.mjs
+└── package-lock.json
+└── package.json
+└── postcss.config.mjs
+└── public
+    └── next.svg
+    └── vercel.svg
+└── tailwind.config.ts
+└── tsconfig.json
 
 ```
-![](https://komarev.com/ghpvc/?username=harrrshall)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harrrshall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshalsinghcn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@HarshalsinghCN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@Cyber_novas#8572)  
+* **app:** Contains the Next.js application code, including pages, components, and API routes.
+* **components:** Houses reusable UI components for building the application interface.
+* **lib:** Includes utility functions and shared logic for the application.
+* **public:** Contains static assets such as images and icons.
+
+### Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/webscribe.git
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   cd webscribe
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Set Environment Variables**
+   ```bash
+   #Firecrawl API Key
+    FIRECRAWL_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  # Obtain from https://www.firecrawl.dev/app/api-keys
+
+    #Google Generative AI API Key
+    GOOGLE_GENERATIVE_AI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx  # Obtain from https://aistudio.google.com/app/apikey
+    create .env.local file and put it in that
+   ```
+
+4. **Access the application:**
+   Open [http://localhost:3000](http://localhost:3000) in your web browser.
+
+### Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+For any inquiries or support, please contact the project maintainer at [your-email@example.com](your-email@example.com).
